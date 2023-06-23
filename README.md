@@ -15,7 +15,7 @@ Which pieces of the code did you find most challenging to write, and how did you
 -The most challenging part was figuring out how to change the color of the text and make it cross-platform. Although it wasn't a required aspect of the project, I wanted to challenge myself. Whenever I encounter difficulties, I can always rely on my friend who graduated with a bachelor's degree in software engineering last year. Additionally, Google is a valuable resource that I frequently turn to when I need assistance.
 
 What skills from this project will be particularly transferable to other projects or course work?
--One skill I learned that is transferable to future projects is the use of the preprocessor directive #ifdef _WIN32. The #ifdef _WIN32 directive allows the code to have platform-specific code blocks that are included or excluded based on whether the code is being compiled for a Windows platform or another platform.
+-One skill I learned that is transferable to future projects is the use of the preprocessor directive #ifdef _WIN32. The #ifdef _WIN32 directive allows the code to have platform-specific code blocks that are included or excluded based on whether the code is being compiled for a Windows platform or another platform. This skill is useful when developing cross-platform applications or dealing with platform-specific features.
 
 How did you make this program maintainable, readable, and adaptable?
 -The code is reasonably organized into classes and functions, making it easier to understand and modify specific components.
