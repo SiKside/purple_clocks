@@ -9,7 +9,7 @@ What did you do particularly well?
 -This program handles platform Compatibility particularly well. The program includes platform-specific code to handle console color changes. It detects whether the program is running on Windows or another platform and adjusts the code accordingly, allowing consistent behavior across different operating systems.
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
--One thing this program could benefit from is more robust input valadation to handle cases where a user enters a non-numeric or other unaccepted values.
+-One thing this program could benefit from is more robust input valadation, to handle cases where a user enters a non-numeric or other unaccepted values.
 
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 -The most challenging part was figuring out how to change the color of the text and make it cross-platform. Although it wasn't a required aspect of the project, I wanted to challenge myself. Whenever I encounter difficulties, I can always rely on my friend who graduated with a bachelor's degree in software engineering last year. Additionally, Google is a valuable resource that I frequently turn to when I need assistance.
